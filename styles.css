@@ -1,0 +1,6 @@
+body { color: #212529; }
+.table tbody tr { cursor: pointer; }
+.image-thumb { width: 48px; height: 48px; object-fit: cover; border-radius: 6px; border: 1px solid #e9ecef; }
+.description-tooltip { max-width: 420px; white-space: normal; }
+.sort-btn { text-decoration: none; padding: 0 4px; }
+#detailImages img { width: 80px; height: 80px; object-fit: cover; border-radius: 8px; border: 1px solid #e9ecef; }
